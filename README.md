@@ -20,6 +20,6 @@
 
 torch版本：1.13.0
 
-### Example of Game
+### 游戏示例
 
 ![Example](https://github.com/Jamoremore/AlphaZero_Gomoku-pytorch-master/blob/main/example.gif)  
