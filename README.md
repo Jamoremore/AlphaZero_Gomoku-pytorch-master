@@ -1,5 +1,7 @@
 # AlphaZero_Gomoku-pytorch-master
 
+基于alphazero的可视化五子棋程序
+
 算法改自 [junxiaosong/AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku) ，做了以下调整：
 
 * 通过pytorch对网络训练和决策部分的代码进行了重写
