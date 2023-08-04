@@ -22,4 +22,4 @@ torch版本：1.13.0
 
 ### Example of Game
 
-![Example](https://github.com/Jamoremore/AlphaZero_Gomoku-pytorch-master/example.gif)  
+![Example](https://github.com/Jamoremore/AlphaZero_Gomoku-pytorch-master/blob/main/example.gif)  
